@@ -119,20 +119,6 @@ A real-time sign language recognition system using OpenCV and MediaPipe for hand
 - **SSC** — Shri. Anandrao Abitkar English School, Gargoti (2021) · 95.20%
 
 **Relevant coursework:** DSA • OOP • Operating Systems • DBMS • Software Engineering • Computer Networks • Android Development • Cloud Computing
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=swati-patil-11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swati-patil-11&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=swati-patil-11&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
 ---
 
 ## 🤝 Let's Connect
