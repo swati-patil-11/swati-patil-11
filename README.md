@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/swati-patil-11"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/swati-patil-b3816128a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:swatiipatil12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://leetcode.com/u/swatii_11/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.codechef.com/users/shoal_stone_74"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
@@ -137,7 +137,7 @@ A real-time sign language recognition system using OpenCV and MediaPipe for hand
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/swati-patil-11](https://linkedin.com/in/swati-patil-11)
+- 💼 LinkedIn: [linkedin.com/in/swati-patil-b3816128a](https://www.linkedin.com/in/swati-patil-b3816128a/)
 - 📧 Email: [swatiipatil12@gmail.com](mailto:swatiipatil12@gmail.com)
 - 🧩 LeetCode: [leetcode.com/u/swatii_11](https://leetcode.com/u/swatii_11/)
 - 🐙 GitHub: [github.com/swati-patil-11](https://github.com/swati-patil-11)
